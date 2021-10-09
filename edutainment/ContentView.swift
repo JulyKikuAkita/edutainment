@@ -70,7 +70,6 @@ struct Questions {
         Question(title: "What happened at the Constitutional Convention?", answer: "The Constitution was written.", number: 65, type: .history),
         Question(title: "When was the Constitution written?", answer: "1787", number: 66, type: .history),
         Question(title: "The Federalist Papers supported the passage of the U.S. Constitution. Name one of the writers.", answer: "(James) Madison,(Alexander) Hamilton,(John) Jay,Publius", number: 67, type: .history),
-        Question(title: "What did Susan B. Anthony do?", answer: "fought for women’s rights", number: 77, type: .history),
         Question(title: "What did the Emancipation Proclamation do?", answer: "freed the slaves", number: 76, type: .history),
         Question(title: "What did Susan B. Anthony do?", answer: "fought for women’s rights", number: 77, type: .history),
         Question(title: "Who was President during World War I?", answer: "(Woodrow) Wilson", number: 79, type: .history),
